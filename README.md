@@ -16,7 +16,7 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-Rural" height="80" width="60" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png">
+  <img align="center" alt="Icon-Rural" height="65" width="60" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png">
   <img align="center" alt="Icon-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
