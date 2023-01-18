@@ -1,4 +1,4 @@
-###🔥 Bem-vindo, Eu sou Guilherme P. Moura 🔥
+### 🔥 Bem-vindo, Eu sou Guilherme P. Moura 🔥
 
 - 🎓 Estou cursando Ciência da Computação, na UFRRJ
 - 💻 Tenho interesse em fazer diversos projetos voltados pra front-end
