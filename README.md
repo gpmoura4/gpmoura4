@@ -1,10 +1,8 @@
-### 🔥🔥🔥 Bem-vindo, Eu sou Guilherme P. Moura 🔥🔥🔥 
+###🔥 Bem-vindo, Eu sou Guilherme P. Moura 🔥
 
-
-- ⌨️ Estou em busca de uma vaga como dev
 - 🎓 Estou cursando Ciência da Computação, na UFRRJ
 - 💻 Tenho interesse em fazer diversos projetos voltados pra front-end
-- 🕹️ Tenho estudado tecnologias como HTML, CSS e começarei Javascript
+- 🕹️ Tenho estudado tecnologias como HTML, CSS, Javascript e C
 - 🚀 Na faculdade estou tendo disciplinas nas quais estou aprendendo C e Java
 - 📧 Meu email: gpmoura4@gmail.com
 
