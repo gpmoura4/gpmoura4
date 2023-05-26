@@ -2,9 +2,9 @@
 
 
 - 🎓 Estou cursando Ciência da Computação, na UFRRJ
-- 💻 Tenho interesse em fazer diversos projetos voltados pra front-end
-- 🕹️ Tenho estudado tecnologias como HTML, CSS, Javascript e C
-- 🚀 Na faculdade estou tendo disciplinas nas quais estou aprendendo C e Java
+- 💻 Tenho interesse em fazer diversos projetos voltados pra front-end e back-end
+- 🕹️ Tenho estudado Javascript, HTML, CSS e Python 
+- 🚀 Na faculdade estou tendo disciplinas, como Inteligência Artificial, que utilizo o Python
 - 📧 Meu email: gpmoura4@gmail.com
 
 <div align="center">
