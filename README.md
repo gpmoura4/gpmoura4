@@ -4,7 +4,7 @@
 - 🎓 Estou cursando Ciência da Computação, na UFRRJ
 - 💻 Tenho interesse em fazer diversos projetos voltados pra front-end e back-end
 - 🕹️ Tenho estudado Javascript, HTML, CSS e Python 
-- 🚀 Na faculdade estou tendo disciplinas, como Inteligência Artificial, que utilizo o Python
+- 🚀 Atualmente, na faculdade, estou aprendendo sobre Inteligência Artificial utilizando Python e Prolog
 - 📧 Meu email: gpmoura4@gmail.com
 
 <div align="center">
