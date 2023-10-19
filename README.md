@@ -2,9 +2,9 @@
 
 
 - 🎓 Estou cursando Ciência da Computação, na UFRRJ
-- 💻 Tenho interesse em desenvolvimennto Full-stack
-- 🕹️ Tenho estudado Javascript, Node.js, Express.js, React, Python e POO
-- 🚀 Atualmente estou aprendendo sobre Inteligência Artificial e Desenvolvimento Web, tanto na Faculdade quanto fora dela
+- 💻 Desejo trilhar o caminho para me tornar um Dev Fullstack
+- 🕹️ Tenho estudado Javascript, Typescript, Node.js, Express.js, React, Python e POO
+- 🚀 Atualmente estou aprendendo sobre Inteligência Artificial, Machine Learning e Desenvolvimento Web, tanto na Faculdade quanto fora dela
 - 📧 Meu email: gpmoura4@gmail.com
 
 <div align="center">
