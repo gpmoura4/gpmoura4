@@ -1,10 +1,9 @@
 ## Olá, eu sou Guilherme Moura 👋
 
-- 🎓 Bacharelando em Ciência da Computação (6º período) na UFRRJ  
-- 💻 Em transição para Desenvolvedor Full-Stack  
-- 🕹️ Tecnologias e linguagens: JavaScript, TypeScript, Node.js, Express.js, React, Python, HTML, CSS  
-- 🎨 Ferramentas de design: Figma, Photoshop, Illustrator, CorelDraw, Canva  
-- 🚀 Atualmente estudando: Inteligência Artificial, Machine Learning, Next.js, bancos de dados SQL/NoSQL e melhores práticas de DevOps  
+- 🎓 Bacharelando em Ciência da Computação na UFRRJ  
+- 💻 Desenvolvedor Full-Stack Junior
+- 🕹️ Tecnologias e linguagens: Golang, JavaScript, TypeScript, Node.js, Express.js, React, Python, HTML, CSS  
+- 🚀 Atualmente estudando: Inteligência Artificial, Machine Learning, Next.js, bancos de dados SQL/NoSQL
 - 📫 Como me encontrar: gpmoura4@gmail.com  
 
 ---
@@ -17,21 +16,6 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpmoura4&layout=compact&theme=darcula&langs_count=7"/>
   </a>
 </div>
-
----
-
-### 💼 Experiência
-
-- **Estagiário em Desenvolvimento Web** @ Ventura HUB (2023 – Atual)  
-  - Criação e manutenção de sites responsivos usando WordPress, Elementor, HTML, CSS e JavaScript  
-  - Implementação de SEO on-page para otimização de ranking em buscadores  
-  - Colaboração com designers e gerentes de projeto para alinhar identidade visual e requisitos de UX  
-
-- **Monitor de Extensão** @ UFRRJ (2022 – 2023)  
-  - Planejamento e aplicação de oficinas de Pensamento Computacional  
-  - Mentoria em algoritmos, abstração e raciocínio lógico para alunos de Ciência da Computação  
-
----
 
 ### 🛠️ Skills & Ferramentas
 
@@ -50,46 +34,6 @@
   <img align="center" alt="Illustrator" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="CorelDraw" height="40" width="48" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png" />
 </div>
-
----
-
-### 🎓 Formação
-
-- **Bacharel em Ciência da Computação** (2021 – 2025)  
-  Universidade Federal Rural do Rio de Janeiro (UFRRJ)
-
-- **Ensino Médio Completo** (2015 – 2017)  
-  Instituto Maria Tomásia
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto         | Tech Stack                             | Descrição breve                                                                         | Link                                            |
-| --------------- | -------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **Portfólio**   | HTML, CSS                              | Site pessoal mostrando trajetória, skills e projetos                                      | https://gpmoura4.github.io/My-Page/             |
-| **Ventura Hub** | WordPress, Elementor, SEO, UI/UX       | Intranet institucional responsiva e otimizada para buscadores                             | https://venturahub.digital/                     |
-| **Formaggica**  | Google Sites                           | Landing page para serviço de vendas de tábuas de frios, com design clean e responsivo     | http://formaggica.com / Instagram @formaggica    |
-
----
-
-### 📜 Certificações
-
-- **FreeCodeCamp – Responsive Web Design** (300h) – 2022  
-- **EF SET English Certificate** (C2 Proficient – 75/100) – 2023  
-- **DIO – Estrutura de Dados e Algoritmos** – 2021  
-- **Udemy – Full-stack JS & TS** (146h, em andamento)
-
----
-
-### 🗣️ Idiomas
-
-- **Português:** Nativo  
-- **Inglês:**  
-  - Leitura: Proficiente  
-  - Escuta: Proficiente  
-  - Escrita: Intermediário  
-  - Fala: Intermediário  
 
 ---
 
