@@ -25,14 +25,10 @@
   <img align="center" alt="JavaScript"height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="TypeScript"height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Node.js"   height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express"   height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="React"     height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Python"    height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Git"       height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Figma"     height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Photoshop" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Illustrator" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="CorelDraw" height="40" width="48" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png" />
+  <img align="center" alt="CorelDraw" height="40" width="38" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png" />
 </div>
 
 ---
