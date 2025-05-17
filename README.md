@@ -2,8 +2,8 @@
 
 - 🎓 Bacharelando em Ciência da Computação na UFRRJ  
 - 💻 Desenvolvedor Full-Stack Junior
-- 🕹️ Tecnologias e linguagens: Golang, JavaScript, TypeScript, Node.js, Express.js, React, Python, HTML, CSS  
-- 🚀 Atualmente estudando: Inteligência Artificial, Machine Learning, Next.js, bancos de dados SQL/NoSQL
+- 🕹️ Tecnologias e linguagens: Golang, JavaScript, TypeScript, Node.js, Express.js, React, Python, HTML, CSS, MongoDB, SQL
+- 🚀 Atualmente estudando: Inteligência Artificial na área de Processamento de Linguagem Natural
 - 📫 Como me encontrar: gpmoura4@gmail.com  
 
 ---
