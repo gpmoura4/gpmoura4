@@ -28,7 +28,6 @@
   <img align="center" alt="React"     height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Python"    height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Git"       height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="CorelDraw" height="40" width="38" src="https://user-images.githubusercontent.com/78942968/177438104-de346b46-ee2d-4a92-bc50-dfabc558d131.png" />
 </div>
 
 ---
