@@ -1,9 +1,9 @@
 ## Olá, eu sou Guilherme Moura 👋
 
-- 🎓 Bacharelando em Ciência da Computação na UFRRJ  
-- 💻 Desenvolvedor Full-Stack Junior
-- 🕹️ Tecnologias e linguagens: Golang, JavaScript, TypeScript, Node.js, Express.js, React, Python, HTML, CSS, MongoDB, SQL
-- 🚀 Atualmente estudando: Inteligência Artificial na área de Processamento de Linguagem Natural
+- 🎓 Mestrando em Engenharia de Sistemas e Computação na COPPE/UFRJ
+- 💻 Desenvolvedor Back-end Junior
+- 🕹️ Tecnologias e linguagens: Golang, Python, Django, FastAPI, MongoDB, SQL
+- 🚀 Atualmente estudando: Machine Learning, Processamento de Linguagem Natural, LLMs
 - 📫 Como me encontrar: gpmoura4@gmail.com  
 
 ---
